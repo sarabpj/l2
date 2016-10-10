@@ -1,0 +1,25 @@
+{
+  "name": "l2challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarabpj/l2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarabpj/l2/issues"
+  },
+  "homepage": "https://github.com/sarabpj/l2#readme",
+  "dependencies": {
+    "d3": "^4.2.6",
+    "express": "^4.14.0",
+    "jsdom": "^9.6.0",
+    "pug": "^2.0.0-beta6"
+  }
+}
